@@ -1,0 +1,41 @@
+{
+  "name": "eslint-config-kvalifik",
+  "version": "1.0.0",
+  "description": "A modern eslint config to seemlessly integrate linting in future Gatsby apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kvalifik/eslint-config-kvalifik.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "kvalifik",
+    "esnext",
+    "react",
+    "gatsby"
+  ],
+  "author": "Gustav Burchardt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kvalifik/eslint-config-kvalifik/issues"
+  },
+  "homepage": "https://github.com/Kvalifik/eslint-config-kvalifik#readme",
+  "peerDependencies": {
+    "eslint": ">= 5"
+  },
+  "dependencies": {
+    "eslint-config-esnext": "^4.0.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-config-standard-react": "^7.0.2",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-react": "^7.13.0",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
