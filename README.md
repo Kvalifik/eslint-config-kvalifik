@@ -18,3 +18,7 @@ In your `.eslintrc` add:
 ```
 
 Make sure eslint is installed in your code editor to enable linting while you type!
+
+## Rules
+
+Coming soon...
