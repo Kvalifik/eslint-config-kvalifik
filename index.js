@@ -10,6 +10,7 @@ module.exports = {
       'error',
       'prefer-double'
     ],
+    'react/jsx-curly-newline': 0,
     'react/jsx-no-bind': 0,
     'import/no-unresolved': 0,
     'import/prefer-default-export': 0,
